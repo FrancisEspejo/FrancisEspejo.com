@@ -6,7 +6,7 @@
   const mail = document.getElementById("mail");
   const mailOut = document.getElementById("mailOut");
   const hotTargets = document.querySelectorAll("a, button, .portrait-wrap");
-  const email = "fran@francisravn.com";
+  const email = "fran@francisespejo.com";
 
   let width = 0;
   let height = 0;

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://francisravn.com/sitemap.xml
+Sitemap: https://francisespejo.com/sitemap.xml
